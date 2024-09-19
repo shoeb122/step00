@@ -1,1 +1,1 @@
-# step00
+hello word in next js  
